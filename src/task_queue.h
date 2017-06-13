@@ -1,7 +1,3 @@
-// Copyright (c) 2015 Baidu.com, Inc. All Rights Reserved
-// @author Zhou,Chao(zhouchao06@baidu.com)
-// @brief 
-
 #ifndef APP_ECOM_ANTI_THEMIS_WORKER_WORKER_LIB_THREAD_TASK_QUEUE_H
 #define APP_ECOM_ANTI_THEMIS_WORKER_WORKER_LIB_THREAD_TASK_QUEUE_H
 

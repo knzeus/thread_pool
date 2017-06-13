@@ -1,6 +1,3 @@
-// Copyright (c) 2015 Baidu.com, Inc. All Rights Reserved
-// @brief 
-
 #include <unistd.h>
 #include <com_log.h>
 #include "thread_pool.h"

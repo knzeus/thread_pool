@@ -1,6 +1,3 @@
-// Copyright (c) 2015 Baidu.com, Inc. All Rights Reserved
-// @brief 
-
 #ifndef APP_ECOM_ANTI_THEMIS_WORKER_WORKER_LIB_THREAD_THREAD_POOL_H
 #define APP_ECOM_ANTI_THEMIS_WORKER_WORKER_LIB_THREAD_THREAD_POOL_H
 
