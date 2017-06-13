@@ -110,6 +110,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="..\src\task_queue.h" />
+    <ClInclude Include="..\src\thread_pool.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\src\thread_pool.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
